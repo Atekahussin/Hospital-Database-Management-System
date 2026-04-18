@@ -21,7 +21,8 @@ This project involves the design and implementation of a robust **Hospital Manag
 - **Financial Reporting:** Automated billing based on consultation and room types.
 
 ## 📁 Repository Structure
-- `Documentation/`: Full technical report (PDF) including ERD, Schema, and Query analysis.
+- `Design/`: Contains the ERD, Relational Schema, and Oracle APEX screenshots.
+- `Documentation/`: Full technical report (PDF) detailing the system analysis and implementation.
 
 ## 👥 The Team
 Developed by Computer Science students at **King Faisal University**:
