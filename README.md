@@ -32,6 +32,19 @@ Developed by Computer Science students at **King Faisal University**:
 - Maryam Alshabib
 - **Supervised by:** Dr. Bashayer Fareed Altulaihey
 
+## 🖼️ System Design & Prototype
+
+### Conceptual Design (ERD)
+This diagram illustrates the logical structure of the hospital database, showing entities and their relationships.
+![ERD Diagram](./Design/ERD%20(Conceptual%20Design).jpg)
+
+### Relational Schema
+The mapped relational model showing tables, primary keys, and foreign keys.
+![Relational Schema](./Design/Relational%20Schema.jpg)
+
+### Prototype Interface (Oracle APEX)
+A glimpse of the hospital management dashboard developed using Oracle APEX.
+![Oracle APEX](./Design/Oracle%20APEX.jpg)
 ---
 *Part of the Database Concepts and Design Course - KFU (2024).*
 ---
